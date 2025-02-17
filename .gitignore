@@ -1,11 +1,6 @@
+lib/
+node_modules/
 cache/
 out/
-/lib/               # Foundry dependencies (installed via forge install)
-/cache/             # Foundry build cache
-/out/               # Compiled contract output
-/broadcast/         # Deployment logs
-/artifacts/         # Compilation artifacts
-/node_modules/      # If using npm for scripts
-.env/   
-.github/             # Environment variables (private keys, RPC URLs)
+
 
